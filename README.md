@@ -38,7 +38,7 @@ to minimize downtime and improve overall user productivity.
 improvement in adherence to compliance standards
 
   ## 🤜 ⚡ 🤛 Let's Connect 
-* [![Twitter](https://img.shields.io/twitter/follow/yourTwitterHandle?style=social&logo=twitter)](https://twitter.com/thee_freelancer)
+* [![Twitter](https://img.shields.io/twitter/follow/thee_freelancer?style=social&logo=twitter)](https://twitter.com/thee_freelancer)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronald-g-ssebalamu-2018b1165/)
 
 <!---
