@@ -29,7 +29,7 @@ CodeWarriors emerged as winners for this competition.
 I maintain an active technical software engineering blog aimed at sharing insights, solutions, and
 experiences within the software development domain. This blog served as a platform to engage with
 a global audience and demonstrate my expertise in various aspects of software engineering and finance.
-## System Administrator Intern at Lyantonde District Local Government, Uganda September, 2021 – November, 2021
+## 🔌 System Administrator Intern at Lyantonde District Local Government, Uganda September, 2021 – November, 2021
 * In my tenure as an intern, we achieved a 15% increase in system uptime by implementing
 proactive maintenance strategies, reducing unplanned downtime.
 * I Maintained a 98% first-call resolution rate, swiftly addressing hardware and software issues
