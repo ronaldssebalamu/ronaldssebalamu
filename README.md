@@ -1,5 +1,5 @@
 ## 👋 Hi, Welcome. It's great to meet you!
-I am Ronald Ssebalamu
+I am Ronald Ssebalamu, open-source contributor excited to collaborate with FINOS, sharing expertise to empower finance tech professionals and advance industry innovation. 
 ## 🌎 Objective
 * Motivated and skilled Software Engineering student seeking an apprentiship Opportunity within the Open Source in Finance.
 * Utilizing a robust understanding of open source technologies has enabled me to recognize the
