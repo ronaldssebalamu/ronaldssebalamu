@@ -1,13 +1,13 @@
 ## 👋 Hi, Welcome. It's great to meet you!
 I am Ronald Ssebalamu, open-source contributor excited to collaborate with FINOS, sharing expertise to empower finance tech professionals and advance industry innovation. 
 ## 🌎 Objective
-* Motivated and skilled Software Engineering student seeking an apprentiship Opportunity within the Open Source in Finance.
+* Motivated and skilled Software Engineering graduate seeking an apprentiship Opportunity within the Open Source in Finance.
 * Utilizing a robust understanding of open source technologies has enabled me to recognize the
 pivotal role of technology in the finance sector. Combined with my academic background and
 practical involvement in software development, I have been an integral part of noteworthy projects
 since joining the FINOS demonstrating a consistent record of valuable contributions
 ## 🏫 Education
-Bachelor of Science in Software Engineering (Expected Graduation Date: January, 2025)
+Bachelor of Science in Software Engineering.
 Makerere University, Kampala - Uganda
 
 ## ⚡ FINOS, The Linux Foundation March, 2023 - Present
